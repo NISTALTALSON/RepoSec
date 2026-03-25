@@ -1,10 +1,10 @@
-# RepoAudit
+# RepoSec
 
 > Free, open-source AI-powered security audit for any GitHub repository. One command. Zero cost.
 
 ```bash
-pip install repoaudit
-repoaudit https://github.com/anyone/anyrepo
+pip install reposec
+reposec https://github.com/anyone/anyrepo
 ```
 
 ## What it does
@@ -19,7 +19,7 @@ Point it at any public GitHub repo and get a full security report in ~30 seconds
 ## Installation
 
 ```bash
-pip install repoaudit
+pip install reposec
 ```
 
 You also need [Ollama](https://ollama.com) for the AI report:
@@ -31,11 +31,11 @@ ollama pull mistral
 ## Usage
 
 ```bash
-repoaudit https://github.com/user/repo
+reposec https://github.com/user/repo
 
-repoaudit https://github.com/user/repo --output myreport.md
+reposec https://github.com/user/repo --output myreport.md
 
-repoaudit https://github.com/user/repo --no-ai
+reposec https://github.com/user/repo --no-ai
 ```
 
 ## Output

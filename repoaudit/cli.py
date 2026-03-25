@@ -23,7 +23,7 @@ def main(repo_url, output, no_ai):
     Example: reposec https://github.com/user/repo
     """
     console.print(Panel.fit(
-        "[bold purple]RepoAudit[/bold purple] [dim]- Free Open Source Security Scanner[/dim]",
+        "[bold purple]RepoSec[/bold purple] [dim]- Free Open Source Security Scanner[/dim]",
         border_style="purple"
     ))
 

@@ -7,7 +7,7 @@ setup(
     description="Free AI-powered security audit for any GitHub repo",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/NISTALTALSON/repoaudit",
+    url="https://github.com/NISTALTALSON/reposec",
     packages=find_packages(),
     install_requires=[
         "click>=8.0",
