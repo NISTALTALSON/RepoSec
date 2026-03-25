@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+repoaudit/__init__.py
+repoaudit/ai.py
+repoaudit/cli.py
+repoaudit/deps.py
+repoaudit/fetcher.py
+repoaudit/report.py
+repoaudit/scanner.py
+repoaudit/secrets.py
+reposec.egg-info/PKG-INFO
+reposec.egg-info/SOURCES.txt
+reposec.egg-info/dependency_links.txt
+reposec.egg-info/entry_points.txt
+reposec.egg-info/requires.txt
+reposec.egg-info/top_level.txt

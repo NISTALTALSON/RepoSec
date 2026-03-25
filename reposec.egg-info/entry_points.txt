@@ -1,0 +1,2 @@
+[console_scripts]
+reposec = repoaudit.cli:main

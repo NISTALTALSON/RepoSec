@@ -18,9 +18,9 @@ console = Console()
 @click.option("--no-ai", is_flag=True, default=False, help="Skip AI summary, raw findings only")
 def main(repo_url, output, no_ai):
     """
-    RepoAudit - Free AI-powered security audit for any GitHub repo.
+    RepoSec - Free AI-powered security audit for any GitHub repo.
 
-    Example: repoaudit https://github.com/user/repo
+    Example: reposec https://github.com/user/repo
     """
     console.print(Panel.fit(
         "[bold purple]RepoAudit[/bold purple] [dim]- Free Open Source Security Scanner[/dim]",

@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="repoaudit",
+    name="reposec",
     version="0.1.0",
-    author="Nistal",
+    author="Nistal Talson",
     description="Free AI-powered security audit for any GitHub repo",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
@@ -17,7 +17,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "repoaudit=repoaudit.cli:main",
+            "reposec=repoaudit.cli:main",
         ],
     },
     python_requires=">=3.10",
