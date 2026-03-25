@@ -31,11 +31,11 @@ ollama pull mistral
 ## Usage
 
 ```bash
-repoaudit https://github.com/user/repo
+reposec https://github.com/user/repo
 
-repoaudit https://github.com/user/repo --output myreport.md
+reposec https://github.com/user/repo --output myreport.md
 
-repoaudit https://github.com/user/repo --no-ai
+reposec https://github.com/user/repo --no-ai
 ```
 
 ## Output
