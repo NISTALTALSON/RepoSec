@@ -1,0 +1,2 @@
+[console_scripts]
+repoaudit = repoaudit.cli:main

@@ -1,0 +1,16 @@
+README.md
+setup.py
+repoaudit/__init__.py
+repoaudit/ai.py
+repoaudit/cli.py
+repoaudit/deps.py
+repoaudit/fetcher.py
+repoaudit/report.py
+repoaudit/scanner.py
+repoaudit/secrets.py
+repoaudit.egg-info/PKG-INFO
+repoaudit.egg-info/SOURCES.txt
+repoaudit.egg-info/dependency_links.txt
+repoaudit.egg-info/entry_points.txt
+repoaudit.egg-info/requires.txt
+repoaudit.egg-info/top_level.txt
