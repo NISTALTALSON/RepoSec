@@ -1,4 +1,4 @@
-# RepoAudit
+# RepoSec
 
 > Free, open-source AI-powered security audit for any GitHub repository. One command. Zero cost.
 
