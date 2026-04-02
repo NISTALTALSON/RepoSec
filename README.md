@@ -47,7 +47,7 @@ A clean Markdown report with:
 - Hardcoded secrets with file + line number
 - Top 5 prioritized recommendations
 
-## Stack
+## Stack.
 
 | Tool | Purpose | Cost |
 |------|---------|------|
