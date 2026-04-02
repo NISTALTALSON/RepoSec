@@ -38,7 +38,7 @@ reposec https://github.com/user/repo --output myreport.md
 reposec https://github.com/user/repo --no-ai
 ```
 
-## Output
+## Output.
 
 A clean Markdown report with:
 - Executive summary with overall risk level
