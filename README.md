@@ -54,7 +54,7 @@ A clean Markdown report with:
 | Semgrep | Static analysis | Free |
 | pip-audit / npm audit | Dep scanning | Free |
 | Custom regex scanner | Secret detection | Free |
-| Ollama + Mistral 7B | AI report writing | Free, runs locally |
+| Ollama + Mistral 7B | AI report writing | Free, runs locally |.
 
 ## License
 
