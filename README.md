@@ -7,7 +7,7 @@ pip install reposec
 reposec https://github.com/anyone/anyrepo
 ```
 
-## What it does
+## What it does.
 
 Point it at any public GitHub repo and get a full security report in ~30 seconds:
 
